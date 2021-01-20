@@ -10,7 +10,7 @@ What will be covered in this Blog?
 ```
 1. The Random Module
 2. Basic concepts of Python: type casting, conditional statements, iterative statements and string interpolation
-3. Implementation of the guessing the number game with detauled explaination
+3. Implementation of the guessing the number game with detailed explanation
 ```
 **Random module:**
 ==========================
@@ -19,7 +19,37 @@ random.randint(a, b) returns a random integer N such that a <= N <= b. It is ali
 
 ## What is Type Casting?
 The conversion of one data type into another is known as type casting or type conversion.
+## Basics of Python:
 
+### Conditional Statement: if
+If statement is a conditional statement that runs on the logic that if a certain condition is true, it will run the code inside the if block else it will run the other block. A simple implementation of the same is seen below:
+
+```
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+
+#output
+b is greater than a
+```
+Try the above code [here](https://www.w3schools.com/python/trypython.asp?filename=demo_if2).
+
+You can also have multiple if-else statements and also an if statement inside an if statement. This is known as the [Nested if- structure](https://www.w3schools.com/python/python_conditions.asp).
+
+### Iterative statement: for
+A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+
+```
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+
+#output
+apple
+banana
+cherry
+```
 ## What is f-string or String Interpolation?
 Interpolation or interpolate means insert (something of a different nature) into something else. That is inserting/replacing the value of the variables inside the statement of the string we are going to display.
 
