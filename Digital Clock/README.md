@@ -4,7 +4,7 @@
 
 **What will be building?**
 ===========================
-![](https://github.com/SaiAshish-Konchada/Python-Projects-for-Beginners/blob/main/Digital%20Clock/Digital%20Clock%20Implementation.jpg)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1611257903230/XM3h6Fsb3.gif)
 
 This amazing digital clock ⏰
 
