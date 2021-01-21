@@ -4,7 +4,7 @@ import turtle
 BODY_COLOR = 'red'
 GLASS_COLOR = '#9acedc'
 
-#sdeclaring the virtual canvas and turtle
+#declaring the virtual canvas and turtle
 s = turtle.getscreen()
 t = turtle.Turtle()
 
@@ -25,7 +25,7 @@ def body():
     t.right(180)
     t.forward(200)
 
-    # drawing th head curve
+    # drawing the head curve
     t.right(180)
     t.circle(100, -180)
 
@@ -52,7 +52,7 @@ def body():
 
 def glass():
 
-    #repositionng the turtle
+    #repositioning the turtle
     t.up()
     t.right(230)
     t.forward(100)
@@ -64,7 +64,8 @@ def glass():
     #initialising the color
     t.fillcolor(GLASS_COLOR)
     t.begin_fill()
-    #drawing the '(' arc
+    
+    #drawing the '(' arc of the glass
     t.right(150)
     t.circle(90, -55)
 
