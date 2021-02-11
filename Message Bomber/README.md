@@ -1,9 +1,9 @@
-# [Build a Message Bomber Using Python in Just 6 Lines of Code]()
+# [Build a Message Bomber Using Python in Just 6 Lines of Code](https://theinsightfulcoder.com/build-a-message-bomber-using-python-in-just-6-lines-of-code)
 ![](https://github.com/SaiAshish-Konchada/Python-Projects-for-Beginners/blob/main/Message%20Bomber/Message%20Bomber%20Cover.jpg)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://theinsightfulcoder.com/build-a-message-bomber-using-python-in-just-6-lines-of-code):
 ==========================
-You can find a step by step walkthrough in my [Blog]()
+You can find a step by step walkthrough in my [Blog](https://theinsightfulcoder.com/build-a-message-bomber-using-python-in-just-6-lines-of-code)
 <br>
 
 What will be covered in this Blog?
@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 [<img height="30" src= "https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />](https://theinsightfulcoder.com/)
 <a href="mailto:saiashishkonchada@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sai-ashish/)
-[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@saiashishkonchada)
+[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://theinsightfulcoder.medium.com/)
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/theinsightfulcoder)
 <a href="https://dev.to/saiashish">
   <img src="https://img.shields.io/badge/-DEV-black?&style=for-the-badge&logo=DEV&logoColor=white" alt="Sai Ashish's DEV Community Profile" height="30" width="30">
