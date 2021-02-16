@@ -1,4 +1,4 @@
-# [How to Build a Digital Time Clock Using Python]()
+# [How to Build a Digital Time Clock Using Python](https://theinsightfulcoder.com/how-to-build-a-digital-time-clock-using-python)
 ![](https://github.com/SaiAshish-Konchada/Python-Projects-for-Beginners/blob/main/Digital%20Clock/Digital%20Clock.jpg)
 
 
@@ -8,9 +8,9 @@
 
 This amazing digital clock ⏰
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://theinsightfulcoder.com/how-to-build-a-digital-time-clock-using-python):
 ==========================
-You can find a step by step walkthrough in my [Blog]()
+You can find a step by step walkthrough in my [Blog](https://theinsightfulcoder.com/how-to-build-a-digital-time-clock-using-python)
 <br>
 
 What will be covered in this Blog?
@@ -52,10 +52,15 @@ This project is licensed under the MIT License.
 <p align="center">
   <b><i>Let's connect! Choose your favorite platform and say Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></i></b>
 
-[<img height="30" src = "https://img.shields.io/github/followers/SaiAshish-Konchada?label=Follow&style=social">](GitHub) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />](https://theinsightfulcoder.hashnode.dev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:saiashishkonchada@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="30" src = "https://img.shields.io/github/followers/SaiAshish-Konchada?label=Follow&style=social">](https://github.com/SaiAshish-Konchada?tab=followers)
+[<img height="30" src= "https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />](https://theinsightfulcoder.com/)
+<a href="mailto:saiashishkonchada@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sai-ashish/)
+[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://theinsightfulcoder.medium.com/)
+[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/theinsightfulcoder)
+<a href="https://dev.to/theinsightfulcoder">
+  <img src="https://img.shields.io/badge/-DEV-black?&style=for-the-badge&logo=DEV&logoColor=white" alt="Sai Ashish's DEV Community Profile" height="30" width="30">
+</a>
 <br />
 
 <hr />
