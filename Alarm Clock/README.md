@@ -1,9 +1,9 @@
-# [How to Build an Alarm Clock Using Python]()
+# [How to Build an Alarm Clock Using Python](https://theinsightfulcoder.com/how-to-build-an-alarm-clock-using-python)
 ![](https://github.com/SaiAshish-Konchada/Python-Projects-for-Beginners/blob/main/Alarm%20Clock/Alarm%20Clock.jpg)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://theinsightfulcoder.com/how-to-build-an-alarm-clock-using-python):
 ==========================
-You can find a step by step walkthrough in my [Blog]()
+You can find a step by step walkthrough in my [Blog](https://theinsightfulcoder.com/how-to-build-an-alarm-clock-using-python)
 <br>
 
 What will be covered in this Blog?
