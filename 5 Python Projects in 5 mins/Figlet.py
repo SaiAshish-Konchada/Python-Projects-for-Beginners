@@ -1,10 +1,5 @@
-import os
-from pyfiglet import Figlet
+# import pyfiglet module 
+import pyfiglet
 
-def cool(text):
-    cooltext  = Figlet(font="slant")
-    os.system("cls")
-    return str(cooltext.renderText(text))
-
-if __name__ == '__main__':
-    print(cool("Sai Ashish"))
+result = pyfiglet.figlet_format("Sai Ashish", font = "slant")
+print(result) 
