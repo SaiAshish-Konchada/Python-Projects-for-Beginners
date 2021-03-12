@@ -1,8 +1,8 @@
-# [How to Build a Guessing Number Game Using Python]()
+# [How to Build a Guessing Number Game Using Python](https://theinsightfulcoder.com/how-to-build-a-guessing-number-game-using-python)
 ![](https://github.com/SaiAshish-Konchada/Python-Projects-for-Beginners/blob/main/Guess%20the%20number%20game/Guess%20the%20number%20game.jpg)
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://theinsightfulcoder.com/how-to-build-a-guessing-number-game-using-python):
 ==========================
-You can find a step by step walkthrough in my [Blog]()
+You can find a step by step walkthrough in my [Blog](https://theinsightfulcoder.com/how-to-build-a-guessing-number-game-using-python)
 <br>
 
 What will be covered in this Blog?
