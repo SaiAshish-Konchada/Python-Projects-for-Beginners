@@ -1,9 +1,9 @@
-# [Create Your Very Own URL Shortener & Expander using Python]()
+# [Create Your Very Own URL Shortener & Expander using Python](https://theinsightfulcoder.com/create-your-very-own-url-shortener-and-expander-using-python)
 ![](https://github.com/SaiAshish-Konchada/Python-Projects-for-Beginners/blob/main/URL%20Shortener%20%26%20Expander/URL%20Shortener%20%26%20Expander.jpg)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://theinsightfulcoder.com/create-your-very-own-url-shortener-and-expander-using-python):
 ==========================
-You can find a step by step walkthrough in my [Blog]()
+You can find a step by step walkthrough in my [Blog](https://theinsightfulcoder.com/create-your-very-own-url-shortener-and-expander-using-python)
 <br>
 
 What will be covered in this Blog?
