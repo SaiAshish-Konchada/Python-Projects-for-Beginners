@@ -9,6 +9,6 @@ def Unzip():
 if __name__ == '__main__':
     choice=(int(input(Enter 1 for Zip & 2 for Unzip)))
     if choice==1:
-        print(Zip())
+        Zip()
     else:
-        print(Unzip())
+        Unzip()
