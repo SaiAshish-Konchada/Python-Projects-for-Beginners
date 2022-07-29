@@ -27,7 +27,7 @@ Are you a developer who has just started programming and want to build some simp
 
 LICENSE:
 ==========================
-Copyright (c) 2021 The Insightful Coder
+Copyright (c) 2022 The Insightful Coder
 
 This project is licensed under the MIT License.
 <p align="center">
